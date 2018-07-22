@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1458917440 source:c:\users\robert santos\desktop\trabalho\lib_midias\implemento.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<dirent.h>
+	"midias.h"
+
+1458917438 c:\users\robert santos\desktop\trabalho\lib_midias\midias.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<dirent.h>
+
+1459122347 source:c:\users\robert santos\desktop\trabalho(biblioteca digital)\lib_midias\implemento.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<dirent.h>
+	"midias.h"
+
+1459122372 c:\users\robert santos\desktop\trabalho(biblioteca digital)\lib_midias\midias.h
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	<dirent.h>
+
